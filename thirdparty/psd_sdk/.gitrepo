@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/ingydotnet/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/MolecularMatters/psd_sdk.git
+	branch = master
+	commit = 311b5c2e3fe04c8cc6a563665e66b19b3fcf8116
+	parent = 528b4f87f2681982a692d12f77e2af4fa2ab5290
+	method = merge
+	cmdver = 0.4.6

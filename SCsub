@@ -9,7 +9,7 @@ env_psd = env_modules.Clone()
 
 thirdparty_obj = []
 
-thirdparty_dir = "#thirdparty/psd_sdk/"
+thirdparty_dir = "thirdparty/psd_sdk/src/Psd/"
 
 thirdparty_sources = [
     "PsdParseLayerMaskSection.cpp",
